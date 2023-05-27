@@ -1,8 +1,8 @@
 
 
-<h1 align="center">SPARKY-BOT-MD<br></h1>
+<h1 align="center">ABHI-BOT-MD<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/u9RfIfy.jpeg" alt="animated" width="255" height="350" />
+<img src="https://graph.org/file/2d274ae52e468af594ea1.jpg" alt="animated" width="255" height="350" />
 </p>
 
 <p align="center">
